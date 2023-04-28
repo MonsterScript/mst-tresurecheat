@@ -19,3 +19,5 @@ Features:
 + Item rarity rate
 
 Preview: https://youtu.be/VziKILmFkZQ
+
+Donate : https://www.buymeacoffee.com/monsterrr
