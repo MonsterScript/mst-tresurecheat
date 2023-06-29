@@ -19,3 +19,5 @@ Features:
 + Item rarity rate
 
 Preview: https://youtu.be/VziKILmFkZQ
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A1L0IAJ)
